@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  SymCode
-//
-//  Created by Timothy Itodo on 10/28/18.
-//  Copyright © 2018 Timothy Itodo. All rights reserved.
-//
-
 #include <iostream>
 #include <bitset>
 #include <string>
